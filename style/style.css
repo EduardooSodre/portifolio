@@ -105,6 +105,7 @@ body {
 
 .apresentacao__imagem {
   width: 50%;
+   filter:drop-shadow(15px 7px 10px #22D4FD);
 }
 
 .rodape {
